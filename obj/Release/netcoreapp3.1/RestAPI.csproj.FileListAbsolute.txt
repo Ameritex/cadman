@@ -1,0 +1,788 @@
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.AssemblyReference.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\RestAPI.styles.css
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Working\MyC\Tyler\Mfiles\RestAPI_Prod\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\cache.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.StaticWebAssets.xml
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\THUY VAN\Source\Repos\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\cache.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.AssemblyReference.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\RestAPI.styles.css
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\vcom\Documents\osd-backend\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\cache.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+C:\Users\This PC\Downloads\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\tylercool704-osd-backend-ba7d2ccd4eb6\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\Production_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\UAT_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\Prod_Current\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-backup.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings-mylocal.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\cache.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.exe
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.deps.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\ClosedXML.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Interop.MFilesAPI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\itextsharp.xmlworker.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\MFiles.Extensibility.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\ApplicationUtilities.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\NLog.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\Quartz.NetCore.DependencyInjection.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\bin\Release\netcoreapp3.1\PaperLessAPI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.RazorTargetAssemblyInfo.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.csproj.CopyComplete
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.Manifest.cache
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\staticwebassets\RestAPI.StaticWebAssets.xml
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.dll
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.pdb
+D:\Private\MFilesProcessor\backend\RestAPI_CADMAN_v2\OSD\RestAPI\obj\Release\netcoreapp3.1\RestAPI.genruntimeconfig.cache
