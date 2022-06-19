@@ -113,6 +113,16 @@ namespace RestAPI
                             {
                                 continue;
                             }
+                            if (!objectFile.Extension.ToUpper().Equals("STEP") ||
+                                !(objectFile.Title.ToUpper() + "-").Contains(partNo.ToUpper() + "-"))
+                            {
+                                continue;
+                            }
+                            if (!objectFile.Extension.ToUpper().Equals("SLDASM") ||
+                                !(objectFile.Title.ToUpper() + "-").Contains(partNo.ToUpper() + "-"))
+                            {
+                                continue;
+                            }
                             outputFile.WriteLine("downloadPath:" + downloadPath + "\\" + partNo + "." + objectFile.Extension);
 
                             // Download the file to a temporary location.
